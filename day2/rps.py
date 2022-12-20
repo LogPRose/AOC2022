@@ -1,3 +1,9 @@
+import sys
+
+args = sys.argv
+inputFile = args[1]
+
+
 #Part 1
 
 scores = {
@@ -24,7 +30,7 @@ scoresPart2 = {
     "C Z": 7,
 }
 
-with open('input.txt', 'r') as file:
+with open(inputFile, 'r') as file:
     finalScore = 0
     finalScorePart2 = 0
     lines = file.readlines()

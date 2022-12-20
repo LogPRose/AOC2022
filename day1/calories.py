@@ -1,7 +1,10 @@
 import numpy as np
+import sys
 
+args = sys.argv
+inputFile = args[1]
 #Part 1
-with open('input.txt', 'r') as file:
+with open(inputFile, 'r') as file:
     elfMeals = []
     elfBags = file.read().split("\n\n")
     for bag in elfBags:
