@@ -1,6 +1,8 @@
 <h1> Welcome to my AOC2022 Solutions!</h1>
 <p>I recently learned about Advent of Code and decided that I would join in, even if a little late! I will be posting all of my solutions (<strong>hopefully 2 stars!</strong>) for each day once the leaderboards are filled. I am also using this as an opportunity to learn Python as up until this point I've been primarily comfortable progamming in JavaScript and C/C++</p>
 
+[AOC Link](https://adventofcode.com/)
+
 <strong>Progress</strong><br></br>
 
 [Day 1:](https://github.com/LogPRose/AOC2022/tree/master/day1) <img src="assets/star.png" alt="drawing" width="15" height="15"/> <img src="assets/star.png" alt="drawing" width="15" height="15"/><br></br>
