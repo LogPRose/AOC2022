@@ -3,7 +3,7 @@
 
 <strong>Progress</strong><br></br>
 
-[Day 1:](https://github.com/LogPRose/AOC2022/tree/master/day1)<br></br>
+[Day 1:](https://github.com/LogPRose/AOC2022/tree/master/day1) <img src="assets/star.png" alt="drawing" width="15" height="15"/> <img src="assets/star.png" alt="drawing" width="15" height="15"/><br></br>
 [Day 2:](https://github.com/LogPRose/AOC2022/tree/master/day2)<br></br>
 [Day 3:](https://github.com/LogPRose/AOC2022/tree/master/day3)<br></br>
 [Day 4:](https://github.com/LogPRose/AOC2022/tree/master/day4)<br></br>
