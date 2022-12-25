@@ -14,7 +14,7 @@
 [Day 7:](https://github.com/LogPRose/AOC2022/tree/master/day7) <img src="assets/star.png" alt="drawing" width="15" height="15"/> <img src="assets/star.png" alt="drawing" width="15" height="15"/><br></br>
 [Day 8:](https://github.com/LogPRose/AOC2022/tree/master/day8) <img src="assets/star.png" alt="drawing" width="15" height="15"/> <img src="assets/star.png" alt="drawing" width="15" height="15"/><br></br>
 [Day 9:](https://github.com/LogPRose/AOC2022/tree/master/day9) <img src="assets/star.png" alt="drawing" width="15" height="15"/> <img src="assets/star.png" alt="drawing" width="15" height="15"/><br></br>
-[Day 10:](https://github.com/LogPRose/AOC2022/tree/master/day10)<br></br>
+[Day 10:](https://github.com/LogPRose/AOC2022/tree/master/day10) <img src="assets/star.png" alt="drawing" width="15" height="15"/> <img src="assets/star.png" alt="drawing" width="15" height="15"/><br></br>
 [Day 11:](https://github.com/LogPRose/AOC2022/tree/master/day11)<br></br>
 [Day 12:](https://github.com/LogPRose/AOC2022/tree/master/day12)<br></br>
 [Day 13:](https://github.com/LogPRose/AOC2022/tree/master/day13)<br></br>
